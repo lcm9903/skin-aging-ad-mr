@@ -70,10 +70,6 @@ Xu 등(2024, *Alzheimer's Research & Therapy*)은 UK Biobank 60세 이상 195,32
 | | 가중 중앙값 | 74 | 0.83 (0.56–1.23) | 0.35 |
 | | 가중 최빈값 | 74 | 0.87 (0.60–1.28) | 0.49 |
 
-![정방향 MR 포레스트 플롯](figures/mr_forest.png)
-
-![얼굴 노화 → AD (Kunkle) 산점도](figures/mr_scatter_main.png)
-
 - 두 AD GWAS와 네 가지 방법 모두 신뢰구간이 1을 포함했습니다.
 - 점추정치는 모두 1보다 약간 작아 위험 증가 방향의 근거는 없었습니다.
 - 주 분석 leave-one-out IVW 추정치(로그 OR)는 −0.083 ~ 0.064 범위로, 특정 변이 하나가 결과를 좌우하지 않았습니다.
