@@ -1,0 +1,5 @@
+analysis,IVW,weighted_median,egger_intercept_p,Q_p,steiger
+facial_ageing → AD_Kunkle2019,"OR 0.98 (0.56–1.71), p=0.95","OR 0.84 (0.41–1.74), p=0.64",0.793,0.001,True
+facial_ageing → AD_Bellenguez2022,"OR 0.89 (0.62–1.28), p=0.54","OR 0.83 (0.56–1.23), p=0.35",0.453,0.0,True
+AD → facial_ageing,"β -0.002 (-0.005–0.002), p=0.4","β -0.002 (-0.004–0.000), p=0.11",0.977,0.0,True
+AD → facial_ageing (APOE 제외),"β -0.002 (-0.013–0.009), p=0.68","β 0.005 (-0.005–0.014), p=0.35",0.57,0.0,True
